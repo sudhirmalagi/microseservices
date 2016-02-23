@@ -1,0 +1,3 @@
+couchbase.bucket: beer-sample
+couchbase.password: 
+couchbase.nodes: 127.0.0.1
